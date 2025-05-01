@@ -1,1 +1,2 @@
 belajar init debian
+belajar init debian2
